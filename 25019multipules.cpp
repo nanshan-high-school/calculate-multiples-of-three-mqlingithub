@@ -42,5 +42,5 @@ int main() {
   } 
 
   if ((number / 3) * 3 == number) cout << "是3的倍數。";
-  else cout << "不是3的倍數。" << meet;
+  else cout << "不是3的倍數。";
 }
